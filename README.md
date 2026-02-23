@@ -27,7 +27,7 @@ Interesse em **Algoritmos, Estruturas de Dados, IA e Sistemas Escaláveis**.
     .lang {
         margin-left: 6px;
         margin-right: 6px;
-        width: 30px;
+        width: 20px;
     }
 
     img {
