@@ -38,5 +38,4 @@ Interesse em **Algoritmos, Estruturas de Dados, IA e Sistemas Escaláveis**.
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Domfalatudo/Domfalatudo/main/github-contribution-grid-snake-dark.svg"/>
-</div>
+ <img src="https://raw.githubusercontent.com/Domfalatudo/Domfalatudo/output/github-contribution-grid-snake-dark.svg" /></div>
