@@ -5,8 +5,6 @@
 Full Stack Developer in training  
 Focused on Artificial Intelligence and Software Engineering  
 
-<h1>🧠 About Me</h1>
-
 <i>"Simple things should be simple, complex things should be possible."</i>  
  Alan Kay  
 
