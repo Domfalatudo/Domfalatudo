@@ -1,0 +1,20 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Domfalatudo
+          palette: github-dark
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "github-contribution-grid-snake-dark.svg"
+          message: "update snake"
