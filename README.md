@@ -1,76 +1,62 @@
-### 💻 Domfalatudo
+# 💻 Domfalatudo  
 
-Adoro transformar ideias em soluções reais através da lógica e dos algoritmos, programar pra mim é pensar de forma diferente, criar e fazer o mundo funcionar melhor, me interesso por desenvolvimento em Java, Python, C e JavaScript, algoritmos, estruturas de dados, engenharia de software, inteligência artificial, automação e aprendizado de máquina, meu objetivo é crescer em IA e desenvolvimento full stack, criando soluções inteligentes, eficientes e com propósito.
-
-“A melhor forma de prever o futuro é criá-lo” – Alan Kay
-
----
-
-Passionate about turning ideas into real solutions through logic and algorithms, programming for me is about thinking differently, creating and making the world work better, I'm interested in development with Java, Python, C and JavaScript, algorithms, data structures, software engineering, artificial intelligence, automation and machine learning, my goal is to grow in AI and full stack development, building smart, efficient and meaningful solutions.
-
-“The best way to predict the future is to invent it” – Alan Kay
+Full Stack Developer em formação | Foco em Inteligência Artificial  
+Transformando lógica em soluções reais.
 
 ---
 
-### 💙 Linguagens e Tecnologias
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+## 🧠 Sobre mim
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+Desenvolvedor focado em **Java, Python, C e JavaScript**.  
+Interesse sólido em **Algoritmos, Estruturas de Dados, Engenharia de Software e IA**.  
+Objetivo: construir soluções inteligentes, eficientes e escaláveis.
 
+> “A melhor forma de prever o futuro é criá-lo.” – Alan Kay
 
-<img 
-    align="left"
-    alt="JS"
-    title="JS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+---
 
-<img 
-    align="left"
-    alt="PY"
-    title="PY"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+## 💙 Linguagens e Tecnologias
 
-<img 
-    align="left"
-    alt="JAVA"
-    title="JAVA"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+</p>
 
-<hr/>
-<br/>
+---
 
-### ⭐ Estatísticas
+## 🚀 Projetos em Destaque
 
-<div style="white-space: nowrap;">
-  <img
-    height="120em"
+🔹 **Sistema de Automação** – Aplicação focada em lógica e eficiência.  
+🔹 **API REST em Java** – Estrutura organizada e escalável.  
+🔹 **Projeto de IA em Python** – Aplicação de Machine Learning em problema real.
+
+---
+
+## 🎯 Objetivos
+
+- Aprofundar em Machine Learning  
+- Evoluir em Arquitetura Backend  
+- Dominar desenvolvimento Full Stack  
+
+---
+
+## ⭐ Estatísticas
+
+<div align="center">
+  <img 
+    height="150em" 
     src="https://github-readme-stats.vercel.app/api?username=Domfalatudo&show_icons=true&theme=dark&locale=pt-br"
   />
-  <img
-    height="120em"
+  <img 
+    height="150em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domfalatudo&layout=compact&theme=dark"
+  />
+  <img 
+    height="150em" 
+    src="https://streak-stats.demolab.com?user=Domfalatudo&theme=dark"
   />
 </div>
