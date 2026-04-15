@@ -6,7 +6,7 @@ Full Stack Developer in training
 Focused on Artificial Intelligence and Software Engineering  
 
 <i>"Simple things should be simple, complex things should be possible."</i>  
- Alan Kay  
+Alan Kay  
 
 Developer focused on <b>Java, Python, C and JavaScript</b>.  
 Strong interest in <b>Algorithms, Data Structures, Artificial Intelligence and Scalable Systems</b>
@@ -53,7 +53,6 @@ Currently improving my knowledge in backend development, software architecture a
 
 ---
 
-
 <div align="center">
 
 <img width="24px" style="margin: 0 150px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -80,6 +79,15 @@ Currently improving my knowledge in backend development, software architecture a
 <img width="24px" style="margin: 0 150px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="24px" style="margin: 0 150px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="24px" style="margin: 0 150px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Domfalatudo&show_icons=true&theme=dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domfalatudo&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
